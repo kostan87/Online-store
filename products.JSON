@@ -16,29 +16,22 @@
 		"name": "table",
 		"price": 1000
 	}
-	},
-	{
-		"product4": {
-			"name": "sofa",
-			"price": 2500
-		}
-	},
-	{
-		"product3": {
-			"name": "table",
-			"price": 1000
-		}
-	},
-	{
-		"product5": {
-			"name": "headphones",
-			"price": 500
-		}
-	},
-	{
-		"product4": {
-			"name": "mirror",
-			"price": 200
-		}
+},
+{
+	"product4": {
+		"name": "sofa",
+		"price": 2500
 	}
-]
+},
+{
+	"product5": {
+		"name": "headphones",
+		"price": 500
+	}
+},
+{
+	"product6": {
+		"name": "mirror",
+		"price": 200
+	}
+}]
