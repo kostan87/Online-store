@@ -4,7 +4,7 @@ window.onload = function() {
   $.ajax({
     url: 'products.JSON',
     success: function(data){
-      let test = JSON.parse(data);
+      //let test = JSON.parse(data);
       console.log(data);
     },
   });
