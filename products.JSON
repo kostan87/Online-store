@@ -1,37 +1,49 @@
 [{
-	"product1": {
+	"product": {
 		"name": "ball",
 		"price": 100,
+		"id": 1,
 		"html": "ball.html"
 	}
 },
 {
-	"product2": {
+	"product": {
 		"name": "phone",
-		"price": 2000
+		"price": 2000,
+		"id": 2,
+		"html": "phone.html"
 	}
 },
 {
-	"product3": {
-		"name": "table",
-		"price": 1000
+	"product": {
+		"name": "gamepad",
+		"price": 1000,
+		"id": 3,
+		"html": "gamepad.html"
 	}
-},
-{
-	"product4": {
-		"name": "sofa",
-		"price": 2500
+	},
+	{
+		"product": {
+			"name": "sofa",
+			"price": 2500,
+			"id": 4,
+			"html": "sofa.html"
+		}
+	},
+	{
+		"product": {
+			"name": "headphones",
+			"price": 800,
+			"id": 5,
+			"html": "headphones.html"
+		}
+	},
+	{
+		"product": {
+			"name": "camera",
+			"price": 1200,
+			"id": 6,
+			"html": "camera.html"
+		}
 	}
-},
-{
-	"product5": {
-		"name": "headphones",
-		"price": 500
-	}
-},
-{
-	"product6": {
-		"name": "mirror",
-		"price": 200
-	}
-}]
+]
