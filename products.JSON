@@ -1,0 +1,44 @@
+[{
+	"product1": {
+		"name": "ball",
+		"price": 100,
+		"html": "ball.html"
+	}
+},
+{
+	"product2": {
+		"name": "phone",
+		"price": 2000
+	}
+},
+{
+	"product3": {
+		"name": "table",
+		"price": 1000
+	}
+	},
+	{
+		"product4": {
+			"name": "sofa",
+			"price": 2500
+		}
+	},
+	{
+		"product3": {
+			"name": "table",
+			"price": 1000
+		}
+	},
+	{
+		"product5": {
+			"name": "headphones",
+			"price": 500
+		}
+	},
+	{
+		"product4": {
+			"name": "mirror",
+			"price": 200
+		}
+	}
+]
